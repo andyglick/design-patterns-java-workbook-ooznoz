@@ -8,17 +8,7 @@ import java.util.*;
  * @author Steve Metsker
  */
 public class TestUnforgivingBuilder
-extends junit.framework.TestCase 
 {
-/**
- * Create an instance with the given name. 
- *
- * @param name a name for these tests
- */
-public TestUnforgivingBuilder(String name)
-{
-	super(name);
-}
 /**
  * Run the test- methods of this class.
  */
