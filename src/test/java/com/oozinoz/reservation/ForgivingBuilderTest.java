@@ -14,7 +14,7 @@ import static org.assertj.core.api.Assertions.fail;
  *
  * @author Steve Metsker
  */
-public class ForgivingBuilderTest1 {
+public class ForgivingBuilderTest {
     /**
      * Push a date into the future by rolling forward the year.
      */

@@ -19,7 +19,7 @@ import org.assertj.core.api.Assertions;
  *
  * @author Steven J. Metsker
  */
-public class VizTest1 {
+public class VizTest {
     /**
      * Test that the Undo button enables and disables
      * correctly.

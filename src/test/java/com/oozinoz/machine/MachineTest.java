@@ -9,7 +9,7 @@ import org.assertj.core.api.Assertions;
  *
  * @author Steve Metsker
  */
-public class MachineTest1 {
+public class MachineTest {
 
     /**
      * Return a tiny process flow that shows a composite that is

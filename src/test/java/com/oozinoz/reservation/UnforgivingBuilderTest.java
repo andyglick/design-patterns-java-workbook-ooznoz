@@ -14,7 +14,7 @@ import static org.assertj.core.api.Assertions.fail;
  *
  * @author Steve Metsker
  */
-public class UnforgivingBuilderTest1 {
+public class UnforgivingBuilderTest {
     /**
      * Test that we disallow a too low figure for dollars/head.
      */
@@ -111,7 +111,7 @@ public class UnforgivingBuilderTest1 {
         Calendar c = Calendar.getInstance();
         c.clear();
         c.set(2000, Calendar.NOVEMBER, 5);
-        ForgivingBuilderTest1.futurize(c);
+        ForgivingBuilderTest.futurize(c);
         //
         Assertions.assertThat(c.getTime()).isEqualTo(r.date);
         Assertions.assertThat(r.headcount).isEqualTo(250);

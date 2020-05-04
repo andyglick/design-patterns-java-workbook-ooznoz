@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * Test Tub/Machine relations
  */
-public class MediatorTest1 {
+public class MediatorTest {
     Mediator mediator = new Mediator();
     private final Tub t20305 = new Tub("t20305", mediator);
     private final Tub t20308 = new Tub("t20308", mediator);

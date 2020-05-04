@@ -21,7 +21,7 @@ import org.assertj.core.data.Offset;
  *
  * @author Steven J. Metsker
  */
-public class CommandTest1 {
+public class CommandTest {
 
     /**
      * Test that a command to sleep for 2000 milliseconds in

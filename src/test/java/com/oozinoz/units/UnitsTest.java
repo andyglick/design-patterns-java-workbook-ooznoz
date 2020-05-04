@@ -10,7 +10,7 @@ import org.assertj.core.data.Offset;
  *
  * @author Steve Metsker
  */
-public class UnitsTest1 implements UnitConstants {
+public class UnitsTest implements UnitConstants {
     /*
      * Just here to check that type-checking works.
      */

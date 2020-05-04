@@ -10,7 +10,7 @@ import org.assertj.core.api.Assertions;
  *
  * @author Steve Metsker
  */
-public class ProcessTest1 {
+public class ProcessTest {
     /**
      * Return a tiny process flow that shows a composite that is
      * not a tree. In this flow A contains C and B, B
