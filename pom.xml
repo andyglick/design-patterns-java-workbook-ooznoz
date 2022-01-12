@@ -27,7 +27,7 @@
     <project.build.sourceEncoding>${default.character.encoding}</project.build.sourceEncoding>
     <project.reporting.outputEncoding>${default.character.encoding}</project.reporting.outputEncoding>
     <slf4j.version>2.0.0-alpha1</slf4j.version>
-    <springframework.version>5.2.6.RELEASE</springframework.version>
+    <springframework.version>5.3.14</springframework.version>
     <surefire.reportFormat>plain</surefire.reportFormat>
     <surefire.version>3.0.0-M4</surefire.version>
   </properties>
